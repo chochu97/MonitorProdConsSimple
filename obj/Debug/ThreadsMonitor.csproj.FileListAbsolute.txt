@@ -1,0 +1,7 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\MonitorPattern\ThreadsMonitor\bin\Debug\ThreadsMonitor.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\MonitorPattern\ThreadsMonitor\bin\Debug\ThreadsMonitor.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\MonitorPattern\ThreadsMonitor\bin\Debug\ThreadsMonitor.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\MonitorPattern\ThreadsMonitor\obj\Debug\ThreadsMonitor.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\MonitorPattern\ThreadsMonitor\obj\Debug\ThreadsMonitor.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\MonitorPattern\ThreadsMonitor\obj\Debug\ThreadsMonitor.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\MonitorPattern\ThreadsMonitor\obj\Debug\ThreadsMonitor.pdb
